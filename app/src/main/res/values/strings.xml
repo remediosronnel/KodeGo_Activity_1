@@ -1,0 +1,12 @@
+<resources>
+    <string name="remedios">Remedios</string>
+    <string name="log_in">LOGIN</string>
+    <string name="login">You are Back</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="firestore">Firestore</string>
+    <string name="termsPrefix">I agree with</string>
+    <string name="termsSuffix">Terms &amp; Condition</string>
+
+
+</resources>
